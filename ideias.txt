@@ -1,4 +1,14 @@
-insert e select nas Atividades e AtividadesHospedes
-updates em servicos e servicosCinsumidos
-deletes de atividades e atividadesHospedes
-Fiz todos os buscar
+terminar o método carrinhos
+fazer um método de retornar a hospedagem com base no cpf/pasaporte do hospede
+
+mudar a tela de cadastro
+
+passar uma arraylist pra tela de confirmação dos serviços que o erik vai fazer
+mudar a classe de serviços pra ela ter quantidade,valor total(talvez, se achar um jeito mais complexo é até melhor)
+
+colocar passaporte na tabela de hóspedes podendo ser nulo e mudar para o cpf poder ser nulo tbm na tabela
+
+a lable que está exibindo a quantidade que o usuário irá querer do respectivo serviço vai ser passsada para a quantidade do objeto daquele serviço e os serviços que tiverem quantidade>0 vão ser adicionados na arrayList de serviços, para o cálculo final ser feito.
+vai precisar da tabela de serviços
+
+adequar o banco pras novas funcionalidades
